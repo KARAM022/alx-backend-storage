@@ -1,0 +1,2 @@
+// CMNT CMNT
+db.school.find({name: /Holberton.*/}).forEach(printjson);
